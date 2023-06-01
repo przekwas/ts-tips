@@ -1,0 +1,15 @@
+{
+	"name": "ts-tips",
+	"version": "1.0.0",
+	"description": "A starter repo for those that don't want to make their own.",
+	"main": "app.ts",
+	"scripts": {
+		"dev": "tsc app.ts --watch"
+	},
+	"keywords": ["typescript", "learning", "youtube"],
+	"author": "Luke Przekwas",
+	"license": "ISC",
+	"devDependencies": {
+		"typescript": "^5.1.3"
+	}
+}
